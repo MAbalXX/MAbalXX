@@ -2,7 +2,7 @@ Estudiante de la carrera de desarrollo de software.
 
 <div align="right">
 
-### M. Abal
+### Melina. Abyal
 
 </div>
 
